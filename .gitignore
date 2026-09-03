@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+
+# Executables
+music_library
+test_song
+test_bst
+test_music_library
+
+# Build directory
+build/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
